@@ -43,3 +43,4 @@ To run mock server you need to install and run json server in to console.
 # testDeployFrontend
 # testDeployFrontend
 # testDeployFrontend
+# testFrontend
