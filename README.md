@@ -36,5 +36,6 @@ To run mock server you need to install and run json server in to console.
 
 `npm install -g json-server`
 
-`json-server db.json -p 5000`
+`json-server db.json -p 6000`
 
+# testDeployFrontend
